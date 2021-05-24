@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdH5Y1u4qBRkQcuNhek01V6kFM9wYmYMK9P2M32UDCic0pQMRfvWwZQmqa0/J/RjmHLvK3QQncC0eDUDucxUHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adam Gallegos\\Desktop\\Year 2\\AppDevelopment\\CSC160\\MatchGame\\MatchGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam Gallegos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
